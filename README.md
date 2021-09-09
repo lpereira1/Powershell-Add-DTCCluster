@@ -2,7 +2,7 @@
 Add a Distributed Transaction Coordinator using powershell
 
 ## SYNOPSIS
-   This function will activate DTC based on the provided paramters
+   This script will activate DTC based on the provided paramters
 
 ## DESCRIPTION
     Add-DTCCluster is a function that intakes all the inputs required to build a 
